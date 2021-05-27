@@ -1,0 +1,67 @@
+body{
+
+    background-color: cadetblue;
+}
+
+#webcam_label{
+
+    font-size: 23px;
+}
+
+.name_of_objects{
+
+    font-size: 20px;
+}
+
+#capture_button{
+
+    font-size: 20px;
+}
+#result_button{
+
+    font-size: 20px;
+}
+
+#camera{
+    border: 5px solid crimson;
+    width: 700px;
+    height :400px
+
+}
+
+#object{
+
+    color: red;
+    font-size: 15px;
+}
+
+
+
+#accuracy{
+
+    color: red;
+    font-size: 15px;
+}
+
+.name_of_objects{
+
+    color: salmon;
+}
+
+
+#webcam_label{
+
+    color: seagreen;
+}
+
+#intro{
+
+    color: thistle;
+}
+
+.heading{
+
+    width: 100%;
+
+    font-size: 30px;
+}
